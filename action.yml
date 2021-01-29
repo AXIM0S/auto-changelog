@@ -1,6 +1,6 @@
-name: 'Auto Changelog'
+name: 'Auto Changelog and Save as file'
 description: 'Automatic Changelog generator'
-author: 'Ardalan Amini'
+author: 'AXIM0S'
 branding:
   icon: 'clock'
   color: 'blue'
