@@ -33,7 +33,7 @@ async function run() {
     const fs = require('fs');
 
     // write to a new file named 2pac.txt
-    fs.writeFile('CHANGELOG.md', changelog, (err) => {
+    fs.writeFile('./CHANGELOG.md', changelog, (err) => {
         // throws an error, you could also catch it here
         if (err) throw err;
     });
